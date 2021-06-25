@@ -1,16 +1,28 @@
-# payflow
+# Projeto realizado na Next Level Week 6 Rocketseat
 
-A new Flutter project.
 
-## Getting Started
+## :rocket: Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-This project is a starting point for a Flutter application.
+  - [Flutter](https://flutter.dev/)
+  - [Firebase](https://firebase.google.com/?hl=pt)
 
-A few resources to get you started if this is your first Flutter project:
+## :heavy_check_mark: Dependências
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  - [google_fonts](https://pub.dev/packages/google_fonts)
+  - [firebase_core](https://pub.dev/packages/firebase_core)
+  - [google_sign_in](https://pub.dev/packages/google_sign_in)
+  - [google_sign_in_web](https://pub.dev/packages/google_sign_in_web)
+  - [shared_preferences](https://pub.dev/packages/shared_preferences)
+  - [google_ml_kit](https://pub.dev/packages/google_ml_kit)
+  - [camera](https://pub.dev/packages/camera)
+  - [image_picker](https://pub.dev/packages/image_picker)
+  - [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+  - [flutter_masked_text2](https://pub.dev/packages/flutter_masked_text2)
+  - [animated_card](https://pub.dev/packages/animated_card)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## :computer: Projeto 
+Foi realizado o desenvolvimento de um App Mobile que pudesse cadastrar boletos através da leitura do código de barra e login social com conta do Google. :blush:
+
+
+![layout](https://user-images.githubusercontent.com/66228224/123469921-10fc1c80-d5ca-11eb-9050-370b96e1f56b.png)
